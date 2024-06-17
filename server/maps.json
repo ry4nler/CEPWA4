@@ -1,0 +1,20 @@
+{
+    "myWorld": {
+        "blocks": {
+            "flat_platforms": {
+                "collider": "static",
+                "w": 100,
+                "h": 100,
+                "tile": "=",
+                "color": "green",
+                "tileMap": [
+                    
+                    "","","","=","","","","","",
+                    "================"
+                ],
+                "startX": 0,
+                "startY": 0
+            }
+        }
+    }
+}
